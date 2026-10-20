@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/savio_brunob/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/sávio-bruno-1145b3445" target="_blank">
+  <a href="https://www.linkedin.com/in/s%C3%A1vio-bruno-1145b3445" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saviobrunodev@gmail.com" target="_blank">
