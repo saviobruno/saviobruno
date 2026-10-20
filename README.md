@@ -18,7 +18,7 @@
 ### 🌐 Redes Sociais
 
 <p align="left">
-  <a href="https://www.instagram.com/savio_brunob/" target="_blank">
+  <a href="www.linkedin.com/in/saviobrunodev" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/s%C3%A1vio-bruno-1145b3445" target="_blank">
