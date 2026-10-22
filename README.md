@@ -1,6 +1,6 @@
 ## 👋 Sávio Bruno
 
-💻 **Engenheiro/Estudante de Ciência da Computação (UFC)** | Foco em Desenvolvimento **Backend & Mobile**
+💻 **Estudante de Ciência da Computação (UFC)** | Foco em Desenvolvimento **Backend & Mobile**
 
 ---
 
