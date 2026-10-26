@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Status
 
 <p align="left">
@@ -40,3 +40,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviobruno&layout=compact&theme=dark" alt="Most Used Languages" height="180"/>
 </p>
+-->
